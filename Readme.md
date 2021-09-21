@@ -15,6 +15,10 @@
 ## 2. Git 공부하기
 *   [Git_detail](https://opentutorials.org/course/2708)   
 *   [Git_new](https://opentutorials.org/module/3733)
+*   [Git1](https://opentutorials.org/module/3733)
+*   [Git2_CLI 버젼관리](https://opentutorials.org/module/3762)
+*   [Git3_CLI branch & 충돌](https://opentutorials.org/module/3927)
+*   [POSIX_CLI](https://opentutorials.org/module/3927)
 
 ## 3. Unity 공부하기
 > 레트로의 유니티 게임 프로그래밍 에센스
@@ -23,6 +27,7 @@
 
 ## 4. Cpp
 *   ### Unity 끝나고 공부 시작하기 (아마 10월 부터)
+*   [c++](https://modoocode.com/141)
 
 ## 5. 42seoul
 *   ### Philosoper (하루종일 하는중)
@@ -41,5 +46,7 @@
 * 그래픽스 (DX, OpenGl)    
 * 언리얼 (c++) / 유니티 (c#)    
 > 서버
+* [게임 서버프로그래밍 교과서](http://www.yes24.com/Product/Goods/71768958)
+* [멀티 플레이어 게임 프로그래밍](http://www.yes24.com/Product/Goods/38868446)
 * window socket     
 * 데이터 베이스    
