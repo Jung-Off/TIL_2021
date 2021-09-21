@@ -14,7 +14,7 @@
 
 ## 2. Git 공부하기
 *   [Git_detail](https://opentutorials.org/course/2708)
-*   ~~~[Git1]~(https://opentutorials.org/module/3733)
+*   ~~~[Git1](https://opentutorials.org/module/3733)
 *   [Git2_CLI 버젼관리](https://opentutorials.org/module/3762)
 *   [Git3_CLI branch & 충돌](https://opentutorials.org/module/3927)
 *   [Git4_CLI 협업](https://opentutorials.org/module/3967)
