@@ -16,7 +16,7 @@
 *   [ ] [Git_detail](https://opentutorials.org/course/2708)
 *   [x] [Git1](https://opentutorials.org/module/3733)
 *   [x] [Git2_CLI 버젼관리](https://opentutorials.org/module/3762)
-*   [ ] [Git3_CLI branch & 충돌](https://opentutorials.org/module/3927)
+*   [x] [Git3_CLI branch & 충돌](https://opentutorials.org/module/3927)
 *   [ ] [Git4_CLI 협업](https://opentutorials.org/module/3967)
 *   [ ] [POSIX_CLI](https://opentutorials.org/module/3927)
 
