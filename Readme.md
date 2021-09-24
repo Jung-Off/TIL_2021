@@ -17,7 +17,7 @@
 *   [x] [Git1](https://opentutorials.org/module/3733)
 *   [x] [Git2_CLI 버젼관리](https://opentutorials.org/module/3762)
 *   [x] [Git3_CLI branch & 충돌](https://opentutorials.org/module/3927)
-*   [ ] [Git4_CLI 협업](https://opentutorials.org/module/3967)
+*   [x] [Git4_CLI 협업](https://opentutorials.org/module/3967)
 *   [ ] [POSIX_CLI](https://opentutorials.org/module/3927)
 
 ## 3. Unity 공부하기
